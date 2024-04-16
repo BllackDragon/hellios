@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <html>
-    <title> Советские светосильные объективы Helios-44 </title>
+    <title> Советские объективы Helios-44 </title>
     <head>
         <style>
             body{
